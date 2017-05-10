@@ -21,7 +21,7 @@ The main characteristics of this library are:
 
 ## Usage
 
-The typical use of Britecharts involves creating a chart using it's simple API, and rendering it on a container which has previously been applied some data. The code will look like this:
+The typical use of Britecharts involves creating a chart using its simple API, and rendering it on a container which has previously been applied some data. The code will look like this:
 
     barChart
         .width(500)
